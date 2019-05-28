@@ -1,0 +1,21 @@
+.formMain {
+  width: 1008px;
+}
+
+label {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.boxDistance {
+  margin-bottom: 20px;
+  padding-bottom: 0;
+}
+
+select {
+  overflow-y: auto;
+}
+
+.recommend {
+  margin-bottom: 10px;
+}
