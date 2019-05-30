@@ -1,21 +1,7 @@
-.formMain {
-  width: 1008px;
-}
-
-label {
-  display: inline-block;
+.field:not(:last-child) {
   margin-bottom: 10px;
 }
 
-.boxDistance {
+fieldset {
   margin-bottom: 20px;
-  padding-bottom: 0;
-}
-
-select {
-  overflow-y: auto;
-}
-
-.recommend {
-  margin-bottom: 10px;
 }
